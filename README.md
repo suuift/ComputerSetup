@@ -74,7 +74,7 @@ This is a list of all the software I need to install and settings to change when
         
 14. WizTree
 
-        Download from                       
+        Download from                       https://diskanalyzer.com/download
 
 Optional Downloads:
 
